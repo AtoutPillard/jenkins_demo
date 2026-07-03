@@ -1,1 +1,3 @@
-# jenkins_demo
+# Demo Jenkins
+
+Une application simple
